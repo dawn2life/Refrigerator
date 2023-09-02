@@ -2,7 +2,7 @@
   "ConnectionStrings": {
     "RefrigeratorDb": {
       "Name": "RefrigeratorDb",
-      "ConnectionString": "Server=LAPTOP-LNMU68PU\\AKS;Database=RefrigeratorDb;Trusted_Connection=True; TrustServerCertificate=True; MultipleActiveResultSets=true",
+      "ConnectionString": "Server=.;Database=RefrigeratorDb;Trusted_Connection=True; TrustServerCertificate=True; MultipleActiveResultSets=true",
       "ProviderName": "System.Data.SqlClient"
     }
   }
